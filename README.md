@@ -3,7 +3,7 @@
 ## Author
 Enoch Imoke  
 Library and Information Science Student  
-Data Analysis & Visualization Enthusiast
+Data Analyst
 
 ## Project Overview
 This Excel project analyzes real open data from the Toronto Public Library to show how library resources are used across branches and years.  
